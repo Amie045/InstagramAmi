@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "68571411990",
+    "firebase_url": "https://instagram-baru.firebaseio.com",
+    "project_id": "instagram-baru",
+    "storage_bucket": "instagram-baru.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68571411990:android:60a7e16aac2f909e0ae737",
+        "android_client_info": {
+          "package_name": "com.ami.instagramami"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68571411990-7hituq2sdgaoevl1qkt31ulatk4ie16i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ami.instagramami",
+            "certificate_hash": "033894f3a759ffe358bc17bd1840a91a99c35dca"
+          }
+        },
+        {
+          "client_id": "68571411990-aj1ivlfbvfsgftceepogavn48k8mp07m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtj9-nDIKfFyZvMe_ChNfGSofQhZmyFe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68571411990-aj1ivlfbvfsgftceepogavn48k8mp07m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
